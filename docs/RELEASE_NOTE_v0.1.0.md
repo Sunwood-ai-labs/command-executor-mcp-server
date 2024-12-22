@@ -34,16 +34,6 @@
 - 不要なアセットファイルの整理
 - ドキュメントの体裁統一
 
-## 📦 アップグレード方法 / How to Upgrade
-
-```bash
-# パッケージマネージャーを使用している場合
-npm install @modelcontextprotocol/command-executor@latest
-
-# または
-yarn add @modelcontextprotocol/command-executor@latest
-```
-
 ## 🙏 謝辞 / Acknowledgements
 
 このリリースに貢献してくださった皆様に感謝いたします。
